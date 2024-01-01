@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard";
 import "../App.css";
 import Searchicon from "../search.svg";
 
-const API_URL = process.env.URI;
+const API_URL = "http://www.omdbapi.com?apikey=8a77a2f6";
 
 // const movie1 =
 
